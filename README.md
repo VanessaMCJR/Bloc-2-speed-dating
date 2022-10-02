@@ -1,5 +1,9 @@
 # Bloc-2-speed-dating  
 
+# Lien de la vidéo de présentation du projet:
+
+https://share.vidyard.com/watch/AKc9Y5CiwWNDhHjACb95yg?
+
 
 
 Qu'est-ce qui influence le coup de foudre ? (Ou, au moins, l'amour dans les quatre premières minutes ?) Cet ensemble de données a été compilé par les professeurs de la Columbia Business School, Ray Fisman et Sheena Iyengar, pour leur article Gender Differences in Mate Selection: Evidence From a Speed ​​Dating Experiment .
