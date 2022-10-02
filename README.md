@@ -11,8 +11,8 @@ Dans ce projet, on retrouve:
 
 - le fichier csv qui se nomme : **"Speed Dating Data.csv"** qui contient toutes les données
 - fichier ipynb qui se nomme : **"Speed_dating_presentation-finale.ipynb"** qui contient tout le code source.
-- un fichier png qui se nomme :**"graph1_notes_moyennes_attributs_men_women.png"** qui est l'image du premier graphe plotly pas visible directement sur le notebook gihub.
-- un autre fichier png qui se nomme : **"graph2_notes_moyennes_attributs_par_origine_ethnique.png"** qui est l'image du deuxième graphe plotly pas visible directement sur le notebook gihub.
+- un fichier png qui se nomme :**"graph1_notes_moyennes_attributs_men_women.png"** qui est l'image du premier graphe plotly pas visible directement sur le notebook github.
+- un autre fichier png qui se nomme : **"graph2_notes_moyennes_attributs_par_origine_ethnique.png"** qui est l'image du deuxième graphe plotly pas visible directement sur le notebook github.
 
 
 
